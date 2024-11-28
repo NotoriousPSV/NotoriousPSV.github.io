@@ -1,0 +1,10 @@
+main{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-emphasis-color: rgb(183,65,14);
+    background-color: antiquewhite;
+}
+
+p{
+    color: (183,65,14);
+}
