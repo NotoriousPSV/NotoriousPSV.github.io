@@ -10,8 +10,23 @@ p{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img{
+.SO_pic{
     border: 5px solid #555;
+    border-radius: 15px;
+    float: center;
+}
+.MCI_Team_Photo{
+    border: 5px solid #0d6baa;
+    border-radius: 15px;
+    float: center;
+}
+.CHSL{
+    border: 5px solid #965a28;
+    border-radius: 15px;
+    float: center;
+}
+.KCSL{
+    border: 5px solid #8b6429;
     border-radius: 15px;
     float: center;
 }
